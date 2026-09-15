@@ -1,5 +1,8 @@
 # LGD-Production-Quality-Report-Dashboard
 
+<img width="898" height="726" alt="1" src="https://github.com/user-attachments/assets/808ec90d-106a-49c2-aeff-e8d051d07099" />
+
+
 # LG Display 생산·품질 보고서 웹 서비스
 
 ## 날짜
